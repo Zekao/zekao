@@ -1,4 +1,7 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emaugale?cursus=C%20Piscine)](https://github.com/Zekao)
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emaugale?privacyEmail=true&privacyName=true)](https://github.com/Zekao)
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emaugale?cursus=C%20Piscine&privacyEmail=true&privacyName=true)](https://github.com/Zekao)
 <!--
 **Zekao/zekao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
