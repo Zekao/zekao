@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zekao&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="420">
+<img src="https://github-readme-stats.vercel.app/api?username=Zekao&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="450"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zekao&layout=compact&theme=gotham" length="100" width="375">
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emaugale?privacyEmail=true&privacyName=true)](https://github.com/Zekao)
 
