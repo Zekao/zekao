@@ -1,4 +1,6 @@
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zekao&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="420">
+
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emaugale?privacyEmail=true&privacyName=true)](https://github.com/Zekao)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emaugale?cursus=C%20Piscine&privacyEmail=true&privacyName=true)](https://github.com/Zekao)
