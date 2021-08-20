@@ -11,7 +11,7 @@
   - C <br>
   - Shell <br>
 
-📫 Contact : emaugale@student.42.fr
+📫 Contact : zekao.github@42l.fr	
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emaugale?privacyEmail=true&privacyName=false)](https://github.com/Zekao)
 
