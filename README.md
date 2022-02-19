@@ -9,7 +9,7 @@
  
  🧠 I’m currently studying : <br>
   - C <br>
-  - Shell <br>
+  - CPP <br>
 
 📫 Contact : zekao.github@42l.fr	
 
