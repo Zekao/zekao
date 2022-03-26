@@ -14,7 +14,7 @@
 
 📫 Contact : zekao.github@42l.fr	
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emaugale?privacyEmail=true&privacyName=false)](https://github.com/Zekao)
+[![emaugale's 42 stats](https://badge42.vercel.app/api/v2/stats/cl180j5x4000609mclltm1fox?cursusId=21)](https://github.com/Zekao)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emaugale?cursus=C%20Piscine&privacyEmail=false&privacyName=true)](https://github.com/Zekao)
 <!--
