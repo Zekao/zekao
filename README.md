@@ -11,6 +11,10 @@
  🧠 I’m currently studying : <br>
   - C <br>
   - CPP <br>
+  - Python <br>
+  - Python Django <br>
+  - R <br> 
+
 
 📫 Contact : zekao.github@42l.fr	
 
