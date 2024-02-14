@@ -1,38 +1,22 @@
+# <center>Hello 👋 Welcome to my github</center>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zekao&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="450"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zekao&layout=compact&theme=gotham" length="100" width="375">
+Most of my public repositories will be my student projects (it might change with the time, for now all the non 42 related things i'm working on are private)
 
-🎲 Centers of interest : <br>
- -  Programmation
- -  Video Games
- -  Japanese Culture 
- -  Design <br>
- 
- 🧠 I’m currently studying : <br>
-  - C <br>
-  - CPP <br>
-  - Python <br>
-  - Python Django <br>
-  - R <br> 
+---
+<p align="center">Languages/technos i'm the most confident with</p>
+      
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,docker,django,py,r,rust" />
+  </a>
+</p>
 
 
-📫 Contact : zekao.github@42l.fr	
+---
 
-[![emaugale's 42 stats](https://badge42.vercel.app/api/v2/stats/cl180j5x4000609mclltm1fox?cursusId=21)](https://github.com/Zekao)
+# <p align="center">Regarding my 42 projects in public</p>
+  
+If you are ending up here to check my 42 projects and that you are a 42 student, I highly recommend you to don't copy them, copying code will be a waste of time for you and for your evaluators. You won't learn anything and at a moment, you will realise that you have a lack of knowledges in some aspects and it will be totally your fault because you didn't took the opportunity to make things by yourself and you choosed the easy way.
 
-[![emaugale's 42 stats](https://badge42.vercel.app/api/v2/stats/cl180j5x4000609mclltm1fox?cursusId=9)](https://github.com/Zekao)
+I won't make you the moral regarding cheating, but just doing the same as some codes on github when you have a school based on a peer2peer system is stupid, you have a lot of peers, ask them if you need help.
 
-<!--
-**Zekao/zekao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
