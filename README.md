@@ -11,6 +11,9 @@ Most of my public repositories will be my student projects (it might change with
   </a>
 </p>
 
+<a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/clwhwpiwj099901rz6blh0vid/stats?cursusId=9&coalitionId=piscine" alt="emaugale's 42 stats" /></a>
+
+<a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/clwhwpiwj099901rz6blh0vid/stats?cursusId=21&coalitionId=48" alt="emaugale's 42 stats" /></a>
 
 ---
 
